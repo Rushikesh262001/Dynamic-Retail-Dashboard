@@ -22,7 +22,8 @@ The dashboard integrates data from three tables:
 Sample Data
 Order Table:
 
-![image](https://github.com/user-attachments/assets/e232b071-783f-488d-adb0-4c1aeee2a71c)
+![image](https://github.com/user-attachments/assets/4a359d24-5376-480d-b68c-b3320301d5a8)
+
 
 
 People Table:
