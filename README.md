@@ -19,12 +19,17 @@ Return: Tracks returned orders along with the corresponding markets.
 
 Sample Data
 Order Table:
+
 ![image](https://github.com/user-attachments/assets/e232b071-783f-488d-adb0-4c1aeee2a71c)
 
+
 People Table:
+
 ![image](https://github.com/user-attachments/assets/a0a016d2-0246-427e-b2ae-340c4f3404ad)
 
+
 Return Table:
+
 ![image](https://github.com/user-attachments/assets/be0fde37-d079-49bb-ab9c-f94ca63415c6)
 
 
@@ -32,27 +37,34 @@ Problem Statements Addressed
 The dashboard solves the following problem statements:
 
 KPI Calculation: Calculates total sales, total profit, total quantity, number of orders, and profit margin.
+
 ![image](https://github.com/user-attachments/assets/00bc7911-4c6b-4089-b767-ef5de691df60)
 
 Sales and Profit Analysis: Provides a detailed analysis of sales and profit across different regions, markets, and segments.
+
 ![image](https://github.com/user-attachments/assets/19c76258-965a-474e-89d9-43c9265ee96c)
 
 Category-wise Profit: Displays profit contribution by different product categories.
+
 ![image](https://github.com/user-attachments/assets/3028fe96-cb97-40d3-829f-1e982c3c5425)
 
 Segment-wise Sales Share: Shows the share of sales across different customer segments.
 ![image](https://github.com/user-attachments/assets/dab2dc21-1c84-4a3d-9887-718854b7cc3c)
 
 Sales by Country: Highlights sales distribution by country.
+
 ![image](https://github.com/user-attachments/assets/ff9d129d-67a7-4e22-bacf-8123afa4f1b0)
 
 Top 5 Subcategories: Identifies subcategories with the highest sales.
+
 ![image](https://github.com/user-attachments/assets/b6a499f8-b8ee-45b2-a4ea-a62c99435329)
 
 Bottom 5 Subcategories: Highlights subcategories with lower sales.
+
 ![image](https://github.com/user-attachments/assets/5c69afe1-36fe-42b3-821d-9c38d6387d0a)
 
 Yearly Sales Trend: Visualizes sales trends over time to identify seasonal patterns.
+
 ![image](https://github.com/user-attachments/assets/d74358c9-6de0-4a3e-8c6d-72e5f1ad39cf)
 
 Next Steps
@@ -65,6 +77,7 @@ Market Analysis: Compare sales and returns across different markets to optimize 
 Product Analysis: Examine product-level performance to optimize inventory and pricing strategies.
 KPI Metrics
 A dynamic KPI table was created to streamline the dashboard’s metrics:
+
 ![image](https://github.com/user-attachments/assets/8cce665d-47c7-4204-b75f-d6ee37e4a322)
 
 Steps to Create the Dashboard
@@ -104,6 +117,7 @@ Test the dashboard for functionality and usability.
 Gather feedback from users and iterate to improve user experience and insights.
 Conclusion
 This dynamic retail dashboard offers a comprehensive solution for analyzing retail data, providing valuable insights into sales, profitability, and customer behavior. By focusing on the key metrics and offering a user-friendly interface, the dashboard is an effective tool for retail managers to make data-driven decisions. Future enhancements like return analysis and market analysis will further strengthen its capabilities, making it an indispensable asset for retail businesses.
+
 ![image](https://github.com/user-attachments/assets/e2176133-5f6d-4ce6-ba33-e5e26941e629)
 
 
