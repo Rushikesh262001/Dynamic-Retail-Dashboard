@@ -152,6 +152,7 @@ Steps to Create the Dashboard
 
 
 Conclusion
+
 This dynamic retail dashboard offers a comprehensive solution for analyzing retail data, providing valuable insights into sales, profitability, and customer behavior. By focusing on the key metrics and offering a user-friendly interface, the dashboard is an effective tool for retail managers to make data-driven decisions. Future enhancements like return analysis and market analysis will further strengthen its capabilities, making it an indispensable asset for retail businesses.
 
 ![image](https://github.com/user-attachments/assets/e2176133-5f6d-4ce6-ba33-e5e26941e629)
